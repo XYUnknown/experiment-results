@@ -1,18 +1,20 @@
 # Experiment Results
 
-## Time spent on implementing a reminder app without callback
+## Time spent on refactoring a single-node reminder app without callback into a multiple-node app
 
 ### Without UMI
 - Participant 1
 Total Time: 4 hrs 34 mins
+
 | Time | Programming Task |
-| --- | ----------- |
+| ---  | -----------      |
 | 20 mins |  Investigate Libraries |
 | 5 mins | Reading Source |
 | 4 hrs 9 mins | Implementation and Refactoring |
 
 - Participant 2
 Total Time: 1 hrs 15 mins
+
 | Time | Programming Task |
 | --- | ----------- |
 | 10 mins |  Investigate Libraries |
@@ -20,6 +22,7 @@ Total Time: 1 hrs 15 mins
 
 - Participant 3
 Total Time: 3 hrs
+
 | Time | Programming Task |
 | --- | ----------- |
 | 2 hrs 30 mins |  Investigating Libraries and Experimenting with Libraries |
@@ -28,6 +31,7 @@ Total Time: 3 hrs
 ### With UMI
 - Participant 1
 Total Time: 40 mins
+
 | Time | Programming Task |
 | --- | ----------- |
 | 5 mins | Reading Documents |
@@ -35,6 +39,7 @@ Total Time: 40 mins
 
 - Participant 2
 Total Time: 25 mins
+
 | Time | Programming Task |
 | --- | ----------- |
 | 5 - 10 mins | Lookinhg through the souce code of the task |
@@ -42,6 +47,7 @@ Total Time: 25 mins
 
 - Participant 3
 Total Time: 25 mins
+
 | Time | Programming Task |
 | --- | ----------- |
 | 5 mins |  Reading the task/initial confusing |
