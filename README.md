@@ -30,9 +30,12 @@ Total Time: 3 hrs
 
 ### tarpc
 - Participant 1
+Total Time: 2 hrs 32 mins
+
 | Time | Programming Task |
 | ---  | -----------      |
-
+| 35 mins |  Investigate Libraries |
+| 1 hr 57 mins | Implementation and Refactoring |
 
 - Participant 2
 Total Time: 1 hrs 20 mins
