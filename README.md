@@ -1,6 +1,6 @@
 # Experiment Results
 
-## Time spent on refactoring a single-node reminder app without callback into a multiple-node app
+## Time spent on refactoring a single-node reminder app without callback into a multiple-node app (pull)
 
 ### Message Passing
 - Participant 1
