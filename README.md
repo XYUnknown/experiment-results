@@ -126,6 +126,8 @@ Total Time: 35 mins
 - Participant 3
 Total Time: 20 mins
 
+| Time | Programming Task |
+| --- | ----------- |
 | 20 mins | Implementation and Refactoring |
 
 ### With UMI
