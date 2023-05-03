@@ -123,7 +123,7 @@ Total Time: 35 mins
 | 35 mins | Implementation and Refactoring |
 
 - Participant 3
-...
+| 20 mins | Implementation and Refactoring |
 
 ### With UMI
 - Participant 1
@@ -139,11 +139,11 @@ Total Time: 1 hr 20 mins / 10 mins
 
 | Time | Programming Task |
 | --- | ----------- |
-| 1 hr 20 mins / 10 mins | Implementation time of the first attempt when the document was unclear / Implementation time of the Second attempt| 
+| 1 hr 20 mins / 10 mins | Implementation time of the first attempt when the document was unclear / Implementation time of the second attempt| 
 
 - Participant 3
 Total Time: 1 hr 20 mins / ...
 
 | Time | Programming Task |
 | --- | ----------- |
-| 1 hr 20 mins / ... | Implementation time of the first attempt when the document was unclear / Implementation time of the Second attempt| 
+| 1 hr 20 mins / ... | Implementation time of the first attempt when the document was unclear / Implementation time of the second attempt (no data)| 
